@@ -17,6 +17,8 @@ Nmap Network Scanning
 
 Serious Cryptography
 
+Black Hat Python
+
 (completed)
 
 The Linux Command Line
