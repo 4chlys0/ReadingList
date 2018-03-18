@@ -1,5 +1,7 @@
 A personal list to review/monitor attractive resources
 
+------------------
+
 Cyber Podcasts
 
 ------------------
@@ -10,11 +12,15 @@ Security Now
 
 Security Weekly
 
+------------------
+
 Cyber News
 
 ------------------
 
 Infosecindustry.com
+
+------------------
 
 Cyber Books
 
