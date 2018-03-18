@@ -1,12 +1,23 @@
 A personal list to review/monitor attractive resources
 
 Cyber Podcasts
+
 ------------------
+
+2018 
+
 Security Now
 
 Security Weekly
 
-Cyber Reading List
+Cyber News
+
+------------------
+
+Infosecindustry.com
+
+Cyber Books
+
 ------------------
 
 2018
@@ -18,6 +29,8 @@ Nmap Network Scanning
 Serious Cryptography
 
 Black Hat Python
+
+The Phoenix Project (Audiobook)
 
 (completed)
 
