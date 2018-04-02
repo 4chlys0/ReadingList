@@ -6,7 +6,7 @@ Cyber Podcasts
 
 ------------------
 
-2018 
+//--2018--// 
 
 Security Now
 
@@ -18,6 +18,8 @@ Cyber News
 
 ------------------
 
+//--2017//
+
 Infosecindustry.com
 
 ------------------
@@ -28,7 +30,7 @@ Cyber Books
 
 Star (*) indicates completed
 
-2018
+//--2018--//
 
 (in progress)
 
@@ -44,6 +46,6 @@ Cryptography: A short introduction (Audiobook)
 
 *The Linux Command Line
 
-2017
+//--2017--//
 
 *Automate the Boring Stuff with Python
