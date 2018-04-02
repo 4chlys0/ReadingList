@@ -26,6 +26,8 @@ Cyber Books
 
 ------------------
 
+Star (*) indicates completed
+
 2018
 
 (in progress)
@@ -36,14 +38,12 @@ Serious Cryptography
 
 Black Hat Python
 
-The Phoenix Project (Audiobook)
+Cryptography: A short introduction (Audiobook)
 
-(completed)
+*The Phoenix Project (Audiobook)
 
-The Linux Command Line
+*The Linux Command Line
 
 2017
 
-(completed)
-
-Automate the Boring Stuff with Python
+*Automate the Boring Stuff with Python
