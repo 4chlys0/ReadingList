@@ -34,6 +34,8 @@ Cyber Movies/TV
 
 //--2018--//
 
+Armitage
+
 *Hackers (1995)
 
 *Wargames (1983)
@@ -41,6 +43,10 @@ Cyber Movies/TV
 *Ghost in the Shell (2017)
 
 *Blackhat (2015)
+
+//--2017--//
+
+Sneakers (1992)
 
 ------------------
 
