@@ -36,6 +36,8 @@ Cyber Movies/TV
 
 Armitage
 
+Mr. Robot S1-3
+
 *Hackers (1995)
 
 *Wargames (1983)
