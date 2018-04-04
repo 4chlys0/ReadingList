@@ -1,4 +1,6 @@
-My personal working list of technical, operational, and cultural cybersecurity media 
+My personal working list of technical, operational, and cultural cybersecurity media
+
+Warning: not all of it is interesting/useful, but I've seen everything referenced somewhere by someone in the field 
 
 * indicates completed
 
@@ -20,9 +22,25 @@ Cyber News
 
 ------------------
 
-//--2017//
+//--2017--//
 
 Infosecindustry.com
+
+------------------
+
+Cyber Movies/TV
+
+------------------
+
+//--2018--//
+
+*Hackers (1995)
+
+*Wargames (1983)
+
+*Ghost in the Shell (2017)
+
+*Blackhat (2015)
 
 ------------------
 
