@@ -1,4 +1,6 @@
-A personal list to review/monitor attractive resources
+My personal working list of technical, operational, and cultural cybersecurity media 
+
+* indicates completed
 
 ------------------
 
@@ -41,6 +43,8 @@ Serious Cryptography
 Black Hat Python
 
 Cryptography: A short introduction (Audiobook)
+
+Ghost in the Shell 1.0
 
 *The Phoenix Project (Audiobook)
 
