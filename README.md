@@ -56,8 +56,6 @@ Cyber Books
 
 ------------------
 
-Star (*) indicates completed
-
 //--2018--//
 
 (in progress)
