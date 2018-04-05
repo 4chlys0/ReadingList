@@ -2,7 +2,7 @@ My personal working list of technical, operational, and cultural cybersecurity m
 
 Warning: not all of it is interesting/useful, but I've seen everything referenced somewhere by someone in the field 
 
-* indicates completed
+"*" indicates completed
 
 ------------------
 
