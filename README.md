@@ -70,6 +70,8 @@ Cryptography: A short introduction (Audiobook)
 
 Ghost in the Shell 1.0
 
+Beyond the Phonix Project (Audiobook)
+
 *The Phoenix Project (Audiobook)
 
 *The Linux Command Line
