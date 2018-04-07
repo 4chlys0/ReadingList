@@ -34,7 +34,7 @@ Cyber Movies/TV
 
 //--2018--//
 
-Armitage
+*Armitage III (1995)
 
 *Mr. Robot S1-3
 
@@ -77,5 +77,9 @@ Beyond the Phonix Project (Audiobook)
 *The Linux Command Line
 
 //--2017--//
+
+*Red Team Field Manual
+
+*Blue Team Field Manual
 
 *Automate the Boring Stuff with Python
