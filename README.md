@@ -34,6 +34,8 @@ Cyber Movies/TV
 
 //--2018--//
 
+*Zero Days (2016)
+
 *Armitage III (1995)
 
 *Mr. Robot S1-3
@@ -66,11 +68,11 @@ Serious Cryptography
 
 Black Hat Python
 
-Cryptography: A short introduction (Audiobook)
-
 Ghost in the Shell 1.0
 
 Beyond the Phonix Project (Audiobook)
+
+*Cryptography: A Short Introduction (Audiobook)
 
 *The Phoenix Project (Audiobook)
 
