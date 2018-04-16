@@ -1,7 +1,5 @@
 My personal working list of technical, operational, and cultural cybersecurity media
 
-Warning: not all of it is interesting/useful, but I've seen everything referenced somewhere by someone in the field 
-
 "*" indicates completed
 
 ------------------
@@ -33,6 +31,8 @@ Cyber Movies/TV
 ------------------
 
 //--2018--//
+
+Ghost in the Shell: Stand Alone Complex S1-2
 
 *Zero Days (2016)
 
@@ -71,6 +71,8 @@ Black Hat Python
 Ghost in the Shell 1.0
 
 Beyond the Phonix Project (Audiobook)
+
+Simple CISSP (Audiobook)
 
 *Cryptography: A Short Introduction (Audiobook)
 
