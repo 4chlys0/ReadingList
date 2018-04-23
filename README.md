@@ -1,4 +1,4 @@
-My personal working list of technical, operational, and cultural cybersecurity media
+My personal working list of technical, operational, and cultural cybersecurity media. May include cross-disciplinary work, though should be recommended by a cybersecurity professional.
 
 "*" indicates completed
 
@@ -73,6 +73,8 @@ Ghost in the Shell 1.0
 Beyond the Phonix Project (Audiobook)
 
 Simple CISSP (Audiobook)
+
+Reality is Broken (Audiobook)
 
 *Cryptography: A Short Introduction (Audiobook)
 
