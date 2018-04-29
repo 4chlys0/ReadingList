@@ -76,7 +76,7 @@ Ghost in the Shell 1.0
 
 Beyond the Phonix Project (Audiobook)
 
-Simple CISSP (Audiobook)
+Simple CISSP (Audiobook) (Reading for general knowledge no plans to take the cert yet)
 
 Reality is Broken (Audiobook)
 
