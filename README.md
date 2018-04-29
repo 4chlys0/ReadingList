@@ -1,7 +1,9 @@
 My personal working list of technical, operational, and cultural cybersecurity media. May include cross-disciplinary work, though should be recommended by a cybersecurity professional.
 
 Legend
+
 "*" indicates completed
+
 terminal "^" indicates previous coursework. If listed as completed I've also read for personal interest
 
 ------------------
@@ -61,8 +63,6 @@ Cyber Books
 ------------------
 
 //--2018--//
-
-(in progress)
 
 Nmap Network Scanning
 
