@@ -18,6 +18,8 @@ Security Now
 
 Security Weekly
 
+CyberSpeak
+
 ------------------
 
 Cyber News
@@ -38,7 +40,7 @@ Cyber Movies/TV
 
 Ghost in the Shell: Stand Alone Complex S1-2
 
-Serial Experiments Lain (1998)
+*Serial Experiments Lain (1998)
 
 *Zero Days (2016)
 
