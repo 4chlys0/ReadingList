@@ -38,7 +38,7 @@ Cyber Movies/TV
 
 //--2018--//
 
-Ghost in the Shell: Stand Alone Complex S1-2
+*Ghost in the Shell: Stand Alone Complex S1-2
 
 *Serial Experiments Lain (1998)
 
@@ -82,7 +82,7 @@ Ghost in the Shell 1.0
 
 Simple CISSP (Audiobook) (Reading for general knowledge no plans to take the cert yet)
 
-Reality is Broken (Audiobook)
+*Reality is Broken (Audiobook)
 
 *Beyond the Phonix Project (Audiobook)
 
