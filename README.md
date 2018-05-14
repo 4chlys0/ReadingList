@@ -38,8 +38,6 @@ Cyber Movies/TV
 
 //--2018--//
 
-*Ghost in the Shell: Stand Alone Complex S1-2
-
 *Serial Experiments Lain (1998)
 
 *Zero Days (2016)
@@ -52,7 +50,7 @@ Cyber Movies/TV
 
 *Wargames (1983)
 
-*Ghost in the Shell (2017)
+*Ghost in the Shell (SAC S1/S2, 1995, 2004, 2005, 2017)
 
 *Blackhat (2015)
 
@@ -84,7 +82,7 @@ Simple CISSP (Audiobook) (Reading for general knowledge no plans to take the cer
 
 *Reality is Broken (Audiobook)
 
-*Beyond the Phonix Project (Audiobook)
+*Beyond the Phoenix Project (Audiobook)
 
 *Cryptography: A Short Introduction (Audiobook)
 
