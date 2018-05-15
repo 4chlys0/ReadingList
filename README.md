@@ -2,9 +2,9 @@ My personal working list of technical, operational, and cultural cybersecurity m
 
 Legend
 
-"*" indicates completed (no indication if recurring)
+"*" indicates completed (or reoccuring if publication)
 
-terminal "^" indicates previous coursework. If listed as completed I've also read for personal interest
+"^" (placed as terminator) indicates previous coursework 
 
 ------------------
 
@@ -14,11 +14,11 @@ Cyber Podcasts
 
 //--2018--// 
 
-Security Now
+*Security Now
 
-Security Weekly
+*Security Weekly (Especially main one- also appsec weekly, sometimes business security weekly)
 
-CyberSpeak
+*CyberSpeak
 
 ------------------
 
@@ -28,7 +28,7 @@ Cyber News
 
 //--2017--//
 
-Infosecindustry.com
+*Infosecindustry.com
 
 ------------------
 
