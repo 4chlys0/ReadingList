@@ -32,11 +32,17 @@ Infosecindustry.com
 
 ------------------
 
-Cyber Movies/TV
+Cyber Movies/TV [Movies listed by year, TV shows by season]
 
 ------------------
 
 //--2018--//
+
+Flash Gordon
+
+Ergo Proxy
+
+*Psycho-Pass (S1-2, 2015)
 
 *Serial Experiments Lain (1998)
 
@@ -78,7 +84,7 @@ Black Hat Python
 
 Ghost in the Shell 1.0
 
-Simple CISSP (Audiobook) (Reading for general knowledge no plans to take the cert yet)
+Simple CISSP (Audiobook)
 
 *Reality is Broken (Audiobook)
 
