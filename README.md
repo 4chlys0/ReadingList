@@ -38,9 +38,23 @@ Cyber Movies/TV [Movies listed by year, TV shows by season]
 
 //--2018--//
 
-Flash Gordon
+eXistenZ (1999)
 
-Ergo Proxy
+The Girl with the Dragon Tattoo (2016)
+
+23 (1998)
+
+One point o (2004)
+
+Freedom Downtime (2001)
+
+Swordfish (2001)
+
+Three days of the Condor (1975)
+
+Flash Gordon (1980)
+
+Ergo Proxy S1
 
 *Psycho-Pass (S1-2, 2015)
 
@@ -56,7 +70,7 @@ Ergo Proxy
 
 *Wargames (1983)
 
-*Ghost in the Shell (SAC S1/S2, 1995, 2004, 2005, 2017)
+*Ghost in the Shell (SAC S1/S2, 1995, 2004, 2007, 2009, 2015, 2017, 2017)
 
 *Blackhat (2015)
 
