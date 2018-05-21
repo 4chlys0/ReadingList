@@ -50,10 +50,6 @@ Freedom Downtime (2001)
 
 Swordfish (2001)
 
-Three days of the Condor (1975)
-
-Flash Gordon (1980)
-
 *Psycho-Pass (S1-2, 2015)
 
 *Serial Experiments Lain (1998)
@@ -84,8 +80,6 @@ Cyber Books
 
 //--2018--//
 
-Ghost in the Wire (Audiobook)
-
 Nmap Network Scanning
 
 Practical Malware Analysis^
@@ -94,9 +88,9 @@ Serious Cryptography
 
 Black Hat Python
 
-Ghost in the Shell 1.0
-
 Simple CISSP (Audiobook)
+
+*Ghost in the Wire (Audiobook)
 
 *Reality is Broken (Audiobook)
 
