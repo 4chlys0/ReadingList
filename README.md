@@ -54,8 +54,6 @@ Three days of the Condor (1975)
 
 Flash Gordon (1980)
 
-Ergo Proxy S1
-
 *Psycho-Pass (S1-2, 2015)
 
 *Serial Experiments Lain (1998)
