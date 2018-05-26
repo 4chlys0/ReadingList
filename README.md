@@ -4,7 +4,9 @@ Legend
 
 "*" indicates completed (or reoccuring if publication)
 
-"^" (placed as terminator) indicates previous coursework 
+"^" (placed as terminator) indicates previous coursework
+
+"Via" indicates crediting source of recommendation 
 
 ------------------
 
@@ -90,15 +92,17 @@ Black Hat Python
 
 Simple CISSP (Audiobook)
 
+Drive (Audiobook) [Via PSW #554 guest Masha Sedova]
+
 *Ghost in the Wire (Audiobook)
 
-*Reality is Broken (Audiobook)
+*Reality is Broken (Audiobook) [Via PSW #554 guest Masha Sedova]
 
-*Beyond the Phoenix Project (Audiobook)
+*Beyond the Phoenix Project (Audiobook) [Via PSW podcast}
 
 *Cryptography: A Short Introduction (Audiobook)
 
-*The Phoenix Project (Audiobook)
+*The Phoenix Project (Audiobook) [Via PSW podcast]
 
 *The Linux Command Line
 
