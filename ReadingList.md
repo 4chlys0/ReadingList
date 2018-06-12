@@ -18,9 +18,15 @@ Cyber Podcasts
 
 *Security Now
 
+	I prefer listening to reading news and this is a great source. Ads feel somewhat obtrusive/repetitive. Show notes provided online if one misses an episode/doesn't have two hours. 
+
 *Security Weekly (Especially main one- also appsec weekly, sometimes business security weekly)
 
+	Easy-to-digest even when I get tired of information security. Great format, great presenters- good balance of news, real-life examples, and humor. 
+
 *CyberSpeak
+
+	Very interesting interviews.  
 
 ------------------
 
@@ -31,6 +37,8 @@ Cyber News
 //--2017--//
 
 *Infosecindustry.com
+
+	Aggregates infosec sources. Use this first then pick a few favorite providers. I don't read much anymore unless it's a research paper on a novel attack.
 
 ------------------
 
@@ -54,25 +62,45 @@ Swordfish (2001)
 
 *Psycho-Pass (S1-2, 2015)
 
+	Show with the same concept as Minority Report. 
+
 *Serial Experiments Lain (1998)
+
+	Great "thinking" series exploring the concept of "the wired" being a world with it's own "god". Best enjoyed on days one spends a lot of time programming/scripting.
 
 *Zero Days (2016)
 
+	Covers Stuxnet- not very memorable to me. Anyone a few years into infosec will probably not find this very interesting.  
+
 *Armitage III (1995)
+
+	Watched this because I think the Kali tool with the same name is based on this. Somewhat interesting when watched alongside Ghost in the Shell.
 
 *Mr. Robot S1-3
 
+	Good its technical usage of tools, may be helpful in learning. I always think of the data center scene with halon gas when reviewing CISSP material. It is great to have a visual for attacks/tools.
+
 *Hackers (1995)
+
+	Probably my top pick for infosec movies. Just like Mr. Robot offers a memorable visual for things one may read about like the rainbow series.
 
 *Wargames (1983)
 
+	Great intro movie for infosec.
+
 *Ghost in the Shell (SAC S1/S2, 1995, 2004, 2007, 2009, 2015, 2017, 2017)
 
+	Becomes interesting to think about after watching a few episodes of the show.
+
 *Blackhat (2015)
+
+	This is not worth watching.
 
 //--2017--//
 
 *Sneakers (1992)
+	
+	Great enjoyable movie, not too technical.
 
 ------------------
 
