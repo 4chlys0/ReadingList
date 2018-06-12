@@ -92,7 +92,7 @@ Black Hat Python
 
 Simple CISSP (Audiobook)
 
-Drive (Audiobook) [Via PSW #554 guest Masha Sedova]
+*Drive (Audiobook) [Via PSW #554 guest Masha Sedova]
 
 *Ghost in the Wire (Audiobook)
 

@@ -1,13 +1,23 @@
-List of courses taken for fun; consider it "work" as well.
+List of courses taken for fun.
 
 * indicates completed
 
 ------------------
 
-Great Courses
+Cognition/Pscyhology
 
 ------------------
 
 //--2018--//
 
-Outsmart Yourself
+*Outsmart Yourself
+
+	Series on applied cognitive science. Not all of it interesting/new. References studies along with information.
+
+------------------
+
+Miscellaneous (vendor in quotes)
+
+------------------
+
+How to Play Chess: Lessons from an International Master (Great Courses)
