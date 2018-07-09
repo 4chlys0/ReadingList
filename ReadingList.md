@@ -110,6 +110,9 @@ Cyber Books
 
 //--2018--//
 
+The Very Unoffical Dummies Guide to Scapy (a free pdf)
+
+
 Nmap Network Scanning (Physical book not online version)
 
 	(in progress) A must-read for anyone who uses this tool. Well-written and provides situational usage examples. It feels infinitely better to understand the functionality of all the flags than memorizing them.  
